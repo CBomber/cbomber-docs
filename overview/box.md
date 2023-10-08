@@ -1,3 +1,22 @@
+---
+cover: ../.gitbook/assets/headthree.png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # ✨ Box
 
 ##
@@ -66,9 +85,9 @@ Box nft acquired by different activities, different boxes contain different nft.
 
 Use Gas to open different boxes to get different on-chain tokens, nft.
 
-
-
 {% hint style="info" %}
 Different boxes require different values of gas, based on the data on the chain.
+
+[Data info Link](../data-sheet/box-info.md#open-gas)
 {% endhint %}
 
