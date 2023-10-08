@@ -27,8 +27,11 @@ CryptoBomber is a classic bomb casual web3 game that includes online pvp and pve
 
 ## Quick links
 
-https://cbomber.io\
-https://github.com/CBomber\
-https://twitter.com/cbomber\_io\
-http://t.me/cb\_global\
-http://discord.gg/cfYFYNua8M
+https://cbomber.io\
+https://github.com/CBomber\
+https://twitter.com/cbomber\_io\
+https://t.me/cb\_global\
+https://discord.gg/cfYFYNua8M\
+https://doc.cbomber.io/\
+\
+http://testplay.cbomber.io/
