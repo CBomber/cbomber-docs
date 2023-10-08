@@ -6,14 +6,14 @@ description: Opening the box is randomized on the chain. Relevant data is listed
 
 ## Open Gas
 
-| name        | amount   |
-| ----------- | -------- |
-| Level 1 box | 0.01 ETH |
-| Level 2 box | 0.02 ETH |
-| Level 3 box | 0.03 ETH |
-| Level 4 box | 0.04 ETH |
-| Level 5 box | 0.05 ETH |
-| Level 6 box | 0.06 ETH |
+| name        | amount |
+| ----------- | ------ |
+| Level 1 box |  ETH   |
+| Level 2 box |  ETH   |
+| Level 3 box |  ETH   |
+| Level 4 box |  ETH   |
+| Level 5 box |  ETH   |
+| Level 6 box |  ETH   |
 
 ## Tokens
 
