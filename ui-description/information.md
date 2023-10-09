@@ -47,5 +47,5 @@ Invitation link for current wallet registration for easy promotion. Other gamers
 Current wallet registration on-chain invitation code.Current wallet registration on-chain invitation code. If already registered here will change to Copy link button.
 
 {% hint style="info" %}
-After successfully playing the game in the invitee's wallet, the contract adds 1 point at a time to the promoter's wallet address.
+After successfully playing the game in the invitee's wallet, the contract adds 5 points at a time to the promoter's wallet address. Add 1 point at a time to the secondary promoter.
 {% endhint %}
