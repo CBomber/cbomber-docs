@@ -10,14 +10,14 @@
 
 Details of the game room settings.
 
-* Room Name
-* Room Password
-* Map
-* Game Mode
-* Max Players
-* Bot Count
-* Match Time
-* Max Kill
+* **Room Name**
+* **Room Password**
+* **Map**
+* **Game Mode**
+* **Max Players**
+* **Bot Count**
+* **Match Time**
+* **Max Kill**
 
 ### Mark B
 

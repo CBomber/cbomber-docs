@@ -24,8 +24,8 @@ Send props nft.
 
 Sell props nft.Sold to the trade market.
 
-
-
 {% hint style="info" %}
 Click the approval button. Authorize to open the chest contract so that you can open the chest for random items.
 {% endhint %}
+
+***
