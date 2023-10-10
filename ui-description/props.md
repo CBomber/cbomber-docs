@@ -2,7 +2,7 @@
 
 ## Screenshot
 
-<figure><img src="../.gitbook/assets/props.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/props1.png" alt=""><figcaption></figcaption></figure>
 
 ## Description
 
@@ -22,7 +22,7 @@ Send props nft.
 
 ### Mark D
 
-Sell props nft.Sold to the trade market.
+Use points earned from invites and check-ins to redeem crates.[BoxExchange](../data-sheet/box-exchange.md)
 
 {% hint style="info" %}
 Click the approval button. Authorize to open the chest contract so that you can open the chest for random items.
