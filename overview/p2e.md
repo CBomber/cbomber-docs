@@ -21,6 +21,8 @@ layout:
 
 ## Overview
 
+{% embed url="https://drive.google.com/file/d/170ZRzubOFQ6_5JanpfWfcApGXIWfBRIe/view?usp=sharing" %}
+
 The game's three matchmaking modes, io, death match, and team death match, are played through PVP and PVE, with final chain settlement based on scores. The contract will reward the corresponding box according to the validity of the results. The box adopts ERC1155 standard nft, users can circulate freely. Different boxes can be opened with corresponding gas to get random items on the chain.
 
 ***
