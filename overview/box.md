@@ -19,39 +19,11 @@ layout:
 
 # ✨ Box
 
-##
 
-<div>
-
-<figure><img src="../.gitbook/assets/1.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/2.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/3.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/4.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/5.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/6.png" alt=""><figcaption></figcaption></figure>
-
-</div>
 
 ## Description
 
 ### Type
-
-#### P2E
 
 * **Level 1 box**
 
@@ -93,4 +65,20 @@ After the token release rate is met, 50% of the player's gas is transferred to t
 Different boxes require different values of gas, based on the data on the chain.
 
 [Data info Link](../data-sheet/box-info.md#open-gas)
+{% endhint %}
+
+{% hint style="info" %}
+Reward token and defi are not enabled by default, the time to enable them depends on the event.
+{% endhint %}
+
+{% hint style="info" %}
+The random chance of token vs. nft is 50%.
+{% endhint %}
+
+{% hint style="info" %}
+The number of invitations affects the reward of tokens received for opening a box, with 10 people 1‰ and a maximum reward of 10%.
+{% endhint %}
+
+{% hint style="info" %}
+Invite scores can be redeemed for boxnft.
 {% endhint %}

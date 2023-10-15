@@ -42,3 +42,5 @@ Document:   [https://doc.cbomber.io](https://doc.cbomber.io)
 PlayGame:   [https://play.cbomber.io](https://play.cbomber.io)
 
 Market:        [https://www.cbomber.io/market.html](https://www.cbomber.io/market.html)
+
+Pool:            ~~https://www.cbomber.io/pool.html~~

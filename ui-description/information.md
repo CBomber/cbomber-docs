@@ -4,11 +4,11 @@
 
 <div>
 
-<figure><img src="../.gitbook/assets/info.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/info2.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/info1 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/info3.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -30,12 +30,12 @@ Invitation code for registration at the current wallet address.
 
 The number of people invited to the current address.
 
-* **Points**
+* **Credit**
 
-Points for the current wallet address. Points are earned by the invitee's participation in games and check-in activities.&#x20;
+Credits for the current wallet address. Points are earned by the invitee's participation in games and check-in activities. You get 2 points for checking in, 5 points for one game for invitees, and 1 point for secondary referrers.
 
 {% hint style="info" %}
-Points can be exchanged for in-game NFTs.
+Credits can be exchanged for in-game NFTs.Destroying BasicNFT can also be exchanged for corresponding credits.
 {% endhint %}
 
 * **Link**

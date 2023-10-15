@@ -2,7 +2,7 @@
 
 ## Screenshot
 
-<figure><img src="../.gitbook/assets/basic.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/basic2.png" alt=""><figcaption></figcaption></figure>
 
 ## Description
 
@@ -22,4 +22,8 @@ Send basic nft.
 
 ### Mark D
 
-Sell basic nft.Sold to the trade market.
+Destroy the nft and get the corresponding credits.
+
+{% hint style="info" %}
+Destruction operations require that you first authorize the contract to operate basicnft, which can be done by clicking the approval button.
+{% endhint %}

@@ -1,6 +1,6 @@
 ---
 description: >-
-  The points data associated with the wallet address can be used to redeem the
+  The credits data associated with the wallet address can be used to redeem the
   box nft. The corresponding data is as follows.
 ---
 

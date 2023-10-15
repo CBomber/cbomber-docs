@@ -1,8 +1,4 @@
 ---
-description: >-
-  Crypto artists can be creative in designing characters and submit them for
-  publication to the platform, and after approval by the game dao, the new
-  character model is hairstyled. The proceeds from the
 cover: ../.gitbook/assets/headthree.png
 coverY: 0
 layout:
@@ -22,6 +18,10 @@ layout:
 ---
 
 # Information
+
+Crypto artists can be creative in designing characters and submit them for publication to the platform, and after approval by the game dao, the new character model is hairstyled.
+
+The crypto artist receives the corresponding revenue.
 
 {% hint style="info" %}
 To be opened.

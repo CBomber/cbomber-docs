@@ -17,14 +17,14 @@ description: Opening the box is randomized on the chain. Relevant data is listed
 
 ## Tokens
 
-| name        | amount      |
-| ----------- | ----------- |
-| Level 1 box | \[1,2,3]    |
-| Level 2 box | \[3,4,5]    |
-| Level 3 box | \[5,6,7]    |
-| Level 4 box | \[7,8,9]    |
-| Level 5 box | \[9,10,11]  |
-| Level 6 box | \[11,12,13] |
+| name        | amount |
+| ----------- | ------ |
+| Level 1 box | \[]    |
+| Level 2 box | \[]    |
+| Level 3 box | \[]    |
+| Level 4 box | \[]    |
+| Level 5 box | \[]    |
+| Level 6 box | \[]    |
 
 ## Basic NFT
 

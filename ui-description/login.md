@@ -2,7 +2,7 @@
 
 ## Screenshot
 
-<figure><img src="../.gitbook/assets/login1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/login3.png" alt=""><figcaption></figcaption></figure>
 
 ## Description
 
@@ -13,8 +13,6 @@ Functions are described according to the letter markings in the screenshots.
 ### Mark A
 
 The button to connect to the wallet, here you need to have the Metamask wallet plugin installed in your browser, it will automatically pop up asking for authorization. After confirmation you can access the blockchain network.After a successful connection, the currently accessed wallet address is displayed. Experience the CBomber product.
-
-
 
 {% hint style="warning" %}
 Users are required to install their own wallet plugins such as metamask.
@@ -33,8 +31,6 @@ After selecting mark a server and clicking the button to join the server, you wi
 ### Mark D
 
 Added to the offline game, you can create rooms to play against bots once you enter the game.
-
-
 
 {% hint style="info" %}
 The Auto Match function is not available in offline mode.

@@ -34,6 +34,7 @@
   * [Basic](data-sheet/nft/basic.md)
 * [Box Info](data-sheet/box-info.md)
 * [Box Exchange](data-sheet/box-exchange.md)
+* [Box Destroy](data-sheet/box-destroy.md)
 
 ## Creative Workshop
 

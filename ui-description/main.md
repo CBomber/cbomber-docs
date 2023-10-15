@@ -2,7 +2,7 @@
 
 ## Screenshot
 
-<figure><img src="../.gitbook/assets/home.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/home1.png" alt=""><figcaption></figcaption></figure>
 
 ## Description
 
@@ -26,17 +26,21 @@ Jump to info to see the current wallet's invitees, credits, promo codes, and reg
 
 ### Mark E
 
-Jump to the props page to view the props nft held by the wallet, and also support authorization, sending, open box, shelving, and redemption functions to view the [props](props.md) in detail.
+Check in at 24 hour intervals and get 2 points per check in, which can be redeemed for BOXNFT.
 
 ### Mark F
 
-Jump to basic page to see the basic nft held by the wallet, and also support sending and redeeming function, check [Basic](basic.md) in detail.
+Jump to the props page to view the props nft held by the wallet, and also support authorization, sending, open box, shelving, and redemption functions to view the [props](props.md) in detail.
 
 ### Mark G
 
-To start a game, open the list of rooms currently in play and view the [ServerList](server-list.md) page in detail.
+Jump to basic page to see the basic nft held by the wallet, and also support sending and redeeming function, check [Basic](basic.md) in detail.
 
 ### Mark H
+
+To start a game, open the list of rooms currently in play and view the [ServerList](server-list.md) page in detail.
+
+### Mark I
 
 Disconnect from the server and exit to the [login](login.md) page.
 
