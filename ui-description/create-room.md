@@ -1,8 +1,27 @@
+---
+cover: ../.gitbook/assets/head.png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Create Room
 
 ## Screenshot
 
-<figure><img src="../.gitbook/assets/creategame.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/newCreateRoom.png" alt=""><figcaption></figcaption></figure>
 
 ## Description
 

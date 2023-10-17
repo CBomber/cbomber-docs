@@ -1,18 +1,37 @@
+---
+cover: ../../.gitbook/assets/head.png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # IO
 
 ## Screenshot
 
 <div>
 
-<figure><img src="../../.gitbook/assets/io1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/newIO1.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/io2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/newIO2.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/io3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/newIO3.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 

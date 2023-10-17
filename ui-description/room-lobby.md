@@ -1,8 +1,27 @@
+---
+cover: ../.gitbook/assets/head.png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Room Lobby
 
 ## Screenshot
 
-<figure><img src="../.gitbook/assets/joinroom (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/newRoomLobby.png" alt=""><figcaption></figcaption></figure>
 
 ## Description
 

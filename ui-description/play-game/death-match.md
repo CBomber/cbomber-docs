@@ -1,18 +1,37 @@
+---
+cover: ../../.gitbook/assets/head.png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Death Match
 
 ## Screenshot
 
 <div>
 
-<figure><img src="../../.gitbook/assets/danren1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/newDeathMatch1.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/danren2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/newDeathMatch2.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/danren3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/newDeathMatch3.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 

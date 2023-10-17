@@ -1,8 +1,27 @@
+---
+cover: ../.gitbook/assets/head.png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Main
 
 ## Screenshot
 
-<figure><img src="../.gitbook/assets/home1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/newMain.png" alt=""><figcaption></figcaption></figure>
 
 ## Description
 

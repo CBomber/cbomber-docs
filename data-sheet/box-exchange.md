@@ -2,6 +2,22 @@
 description: >-
   The credits data associated with the wallet address can be used to redeem the
   box nft. The corresponding data is as follows.
+cover: ../.gitbook/assets/headtwo.png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Box Exchange

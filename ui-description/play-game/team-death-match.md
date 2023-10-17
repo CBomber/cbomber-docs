@@ -1,18 +1,37 @@
+---
+cover: ../../.gitbook/assets/head.png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Team Death Match
 
 ## Screenshot
 
 <div>
 
-<figure><img src="../../.gitbook/assets/duoren1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/newTeamDeathMatch1.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/duoren2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/newTeamDeathMatch2.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/shuangren4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/newTeamDeathMatch3.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 

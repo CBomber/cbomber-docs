@@ -1,5 +1,5 @@
 ---
-cover: .gitbook/assets/head (1).png
+cover: broken-reference
 coverY: 0
 layout:
   cover:

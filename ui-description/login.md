@@ -1,8 +1,27 @@
+---
+cover: ../.gitbook/assets/head.png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Login
 
 ## Screenshot
 
-<figure><img src="../.gitbook/assets/login3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/newLogin.png" alt=""><figcaption></figcaption></figure>
 
 ## Description
 
