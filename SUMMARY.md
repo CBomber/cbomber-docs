@@ -27,7 +27,7 @@
 
 ## Data sheet
 
-* [Contractor](data-sheet/contractor.md)
+* [Contract](data-sheet/contractor.md)
 * [Server Information](data-sheet/server-information.md)
 * [NFT](data-sheet/nft/README.md)
   * [Props](data-sheet/nft/props.md)
