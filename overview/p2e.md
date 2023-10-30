@@ -32,7 +32,7 @@ Each submission of grades requires an interval of 60s, subject to contract setti
 {% endhint %}
 
 {% hint style="info" %}
-Different levels of boxes for different scores
+Different levels of boxes for different scores.
 {% endhint %}
 
 | score   | box         | tokenid |

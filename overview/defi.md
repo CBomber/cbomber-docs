@@ -21,7 +21,7 @@ layout:
 
 ## Overview
 
-The contract will transfer the gas spent by players in the game to the fund escrow contract as the next phase of the defi pool. after the defi pledge expires, the contract will automatically use the last phase of the escrowed funds as the total prize pool for the next round of pledge mining.
+The contract will transfer the gas spent by players in the game to the fund escrow contract as the next phase of the defi pool. after the defi pledge expires, the contract will use the last phase of the escrowed funds as the total prize pool for the next round of pledge mining.
 
 ### Game Pool Funding
 
