@@ -41,7 +41,7 @@ Users are required to install their own wallet plugins such as metamask.
 
 Choose a game server that better suits the user.
 
-Server international codes are **`eu,us,asia,au,jp,usw,sa,cae,kr,in,za,tr,ussc`**
+Server international codes are **`asia,hk`**
 
 ### Mark C
 
