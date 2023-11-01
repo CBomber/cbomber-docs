@@ -43,4 +43,6 @@ PlayGame:   [https://play.cbomber.io](https://play.cbomber.io)
 
 Market:        [https://www.cbomber.io/market.html](https://www.cbomber.io/market.html)
 
+Shop:           ~~https://www.cbomber.io/shop.html~~
+
 Pool:            ~~https://www.cbomber.io/pool.html~~
