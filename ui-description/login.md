@@ -37,6 +37,10 @@ The button to connect to the wallet, here you need to have the Metamask wallet p
 Users are required to install their own wallet plugins such as metamask.
 {% endhint %}
 
+{% hint style="info" %}
+Supports mobile wallet app access.
+{% endhint %}
+
 ### Mark B
 
 Choose a game server that better suits the user.
