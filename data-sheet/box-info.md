@@ -22,25 +22,25 @@ layout:
 
 ## Open Gas
 
-| name        | amount |
-| ----------- | ------ |
-| Level 1 box |  ETH   |
-| Level 2 box |  ETH   |
-| Level 3 box |  ETH   |
-| Level 4 box |  ETH   |
-| Level 5 box |  ETH   |
-| Level 6 box |  ETH   |
+| name        | amount   |
+| ----------- | -------- |
+| Level 1 box | 5 CFX    |
+| Level 2 box | 9.8 CFX  |
+| Level 3 box | 14.4 CFX |
+| Level 4 box | 18.8 CFX |
+| Level 5 box | 23 CFX   |
+| Level 6 box | 27 CFX   |
 
 ## Tokens
 
-| name        | amount |
-| ----------- | ------ |
-| Level 1 box | \[]    |
-| Level 2 box | \[]    |
-| Level 3 box | \[]    |
-| Level 4 box | \[]    |
-| Level 5 box | \[]    |
-| Level 6 box | \[]    |
+| name        | amount      |
+| ----------- | ----------- |
+| Level 1 box | \[1,2,3]    |
+| Level 2 box | \[3,4,5]    |
+| Level 3 box | \[5,6,7]    |
+| Level 4 box | \[7,8,9]    |
+| Level 5 box | \[9,10,11]  |
+| Level 6 box | \[11,12,13] |
 
 ## Basic NFT
 

@@ -25,8 +25,8 @@ layout:
 | name        | amount |
 | ----------- | ------ |
 | Level 1 box | 50     |
-| Level 2 box | 100    |
-| Level 3 box | 150    |
-| Level 4 box | 200    |
-| Level 5 box | 250    |
-| Level 6 box | 300    |
+| Level 2 box | 102    |
+| Level 3 box | 156    |
+| Level 4 box | 212    |
+| Level 5 box | 260    |
+| Level 6 box | 330    |
