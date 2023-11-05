@@ -39,7 +39,7 @@ Telegram:    [https://t.me/cbomber\_channel](https://t.me/cbomber\_channel)
 
 &#x20;                    [https://t.me/cbomber\_cn](https://t.me/cbomber\_cn)
 
-Discord:       [https://discord.gg/cfYFYNua8M](https://discord.gg/cfYFYNua8M)
+Discord:       [~~https://discord.gg/cfYFYNua8M~~](https://discord.gg/cfYFYNua8M)
 
 Document:   [https://doc.cbomber.io](https://doc.cbomber.io)
 
