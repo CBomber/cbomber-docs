@@ -1,5 +1,5 @@
 ---
-cover: broken-reference
+cover: .gitbook/assets/head.png
 coverY: 0
 layout:
   cover:
@@ -23,7 +23,7 @@ layout:
 
 CryptoBomber is a classic bomb casual web3 game that includes online pvp and pve, earn nft while playing for fun!
 
-{% embed url="https://drive.google.com/file/d/1Q4RcSBy98F_0FKYiw-1LY_Jh5l2oPxB-/view" %}
+{% embed url="https://drive.google.com/file/d/1K9kwpLZAiB5pwYLywAQym1ZmHYDdRbsz/view?usp=drive_link" %}
 
 ## Quick links
 
