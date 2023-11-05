@@ -35,6 +35,10 @@ Twitter:        [https://twitter.com/cbomber\_io](https://twitter.com/cbomber\_i
 
 Telegram:    [https://t.me/cbomber\_channel](https://t.me/cbomber\_channel)
 
+&#x20;                    [https://t.me/cbomber\_global](https://t.me/cbomber\_global)
+
+&#x20;                    [https://t.me/cbomber\_cn](https://t.me/cbomber\_cn)
+
 Discord:       [https://discord.gg/cfYFYNua8M](https://discord.gg/cfYFYNua8M)
 
 Document:   [https://doc.cbomber.io](https://doc.cbomber.io)
