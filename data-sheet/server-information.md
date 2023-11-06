@@ -21,14 +21,14 @@ layout:
 
 | Code | Region             | Hosted in       | State                                               |
 | ---- | ------------------ | --------------- | --------------------------------------------------- |
-| HK   | Hong Kong          |                 | <mark style="background-color:green;">OPEN</mark>   |
+| HK   | Hong Kong          |                 | <mark style="background-color:red;">NOT OPEN</mark> |
 | ASIA | Asia               | Singapore       | <mark style="background-color:green;">OPEN</mark>   |
-| EU   | Europe             | Amsterdam       | <mark style="background-color:red;">NOT OPEN</mark> |
+| EU   | Europe             | Amsterdam       | <mark style="background-color:green;">OPEN</mark>   |
 | US   | USA, East          | Washington D.C. | <mark style="background-color:red;">NOT OPEN</mark> |
 | JP   | Japan              | Tokyo           | <mark style="background-color:red;">NOT OPEN</mark> |
 | AU   | Australia          | Melbourne       | <mark style="background-color:red;">NOT OPEN</mark> |
 | USW  | USA, West          | San José        | <mark style="background-color:red;">NOT OPEN</mark> |
-| SA   | South America      | Sao Paulo       | <mark style="background-color:red;">NOT OPEN</mark> |
+| SA   | South America      | Sao Paulo       | <mark style="background-color:green;">OPEN</mark>   |
 | CAE  | Canada, East       | Montreal        | <mark style="background-color:red;">NOT OPEN</mark> |
 | KR   | South Korea        | Seoul           | <mark style="background-color:red;">NOT OPEN</mark> |
 | IN   | India              | Chennai         | <mark style="background-color:red;">NOT OPEN</mark> |
