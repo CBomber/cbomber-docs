@@ -27,26 +27,28 @@ CryptoBomber is a classic bomb casual web3 game that includes online pvp and pve
 
 ## Quick links
 
-Website:      [https://cbomber.io](https://cbomber.io)
+Website      [https://cbomber.io](https://cbomber.io)
 
-PlayGame:   [https://play.cbomber.io](https://play.cbomber.io)
+PlayGame   [https://play.cbomber.io](https://play.cbomber.io)
 
-Document:   [https://doc.cbomber.io](https://doc.cbomber.io)
+Document   [https://doc.cbomber.io](https://doc.cbomber.io)
 
-GitHub:        [https://github.com/CBomber](https://github.com/CBomber)
+GitHub        [https://github.com/CBomber](https://github.com/CBomber)
 
-Twitter:        [https://twitter.com/cbomber\_io](https://twitter.com/cbomber\_io)
+Twitter        [https://twitter.com/cbomber\_io](https://twitter.com/cbomber\_io)
 
-Telegram:    [https://t.me/cbomber\_channel](https://t.me/cbomber\_channel)
+Telegram    [https://t.me/cbomber\_channel](https://t.me/cbomber\_channel)
 
 &#x20;                    [https://t.me/cbomber\_global](https://t.me/cbomber\_global)
 
 &#x20;                    [https://t.me/cbomber\_cn](https://t.me/cbomber\_cn)
 
-Discord:       [~~https://discord.gg/cfYFYNua8M~~](https://discord.gg/cfYFYNua8M)
+Discord       [~~https://discord.gg/cfYFYNua8M~~](https://discord.gg/cfYFYNua8M)
 
-Market:        [https://www.cbomber.io/market.html](https://www.cbomber.io/market.html)
+Medium       [https://medium.com/@cbomber\_io](https://medium.com/@cbomber\_io)
 
-Shop:           ~~https://www.cbomber.io/shop.html~~
+Market        [https://www.cbomber.io/market.html](https://www.cbomber.io/market.html)
 
-Pool:            ~~https://www.cbomber.io/pool.html~~
+Shop           ~~https://www.cbomber.io/shop.html~~
+
+Pool            ~~https://www.cbomber.io/pool.html~~
