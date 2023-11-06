@@ -36,6 +36,7 @@
 * [Box Info](data-sheet/box-info.md)
 * [Box Exchange](data-sheet/box-exchange.md)
 * [Box Destroy](data-sheet/box-destroy.md)
+* [Tokenomics](data-sheet/tokenomics.md)
 
 ## Creative Workshop
 
