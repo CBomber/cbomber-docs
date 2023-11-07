@@ -9,5 +9,5 @@ description: >-
 | Group                                                  | Amount     |   |
 | ------------------------------------------------------ | ---------- | - |
 | Conflux eSpace                                         | 20 million |   |
-| BNB Chain                                              | 50 million |   |
+| <mark style="background-color:red;">Other Chain</mark> | 50 million |   |
 | <mark style="background-color:red;">Unallocated</mark> | 30 million |   |

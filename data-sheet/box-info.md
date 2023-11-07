@@ -25,17 +25,6 @@ layout:
 
 
 {% tabs %}
-{% tab title="BNB Chain" %}
-| name        | amount         |
-| ----------- | -------------- |
-| Level 1 box | 0.004      BNB |
-| Level 2 box | 0.00784  BNB   |
-| Level 3 box | 0.01152   BNB  |
-| Level 4 box | 0.01504  BNB   |
-| Level 5 box | 0.0184    BNB  |
-| Level 6 box | 0.0216    BNB  |
-{% endtab %}
-
 {% tab title="Conflux eSpace" %}
 | name        | amount       |
 | ----------- | ------------ |
