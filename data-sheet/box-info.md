@@ -25,15 +25,15 @@ layout:
 
 
 {% tabs %}
-{% tab title="Conflux eSpace" %}
-| name        | amount       |
-| ----------- | ------------ |
-| Level 1 box | 5        CFX |
-| Level 2 box | 9.8     CFX  |
-| Level 3 box | 14.4   CFX   |
-| Level 4 box | 18.8   CFX   |
-| Level 5 box | 23     CFX   |
-| Level 6 box | 27     CFX   |
+{% tab title="" %}
+| name        | amount |
+| ----------- | ------ |
+| Level 1 box |        |
+| Level 2 box |        |
+| Level 3 box |        |
+| Level 4 box |        |
+| Level 5 box |        |
+| Level 6 box |        |
 {% endtab %}
 {% endtabs %}
 
