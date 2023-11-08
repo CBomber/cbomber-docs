@@ -6,8 +6,7 @@ description: >-
 
 # Tokenomics
 
-| Group                                                  | Amount     |   |
-| ------------------------------------------------------ | ---------- | - |
-| Conflux eSpace                                         | 20 million |   |
-| <mark style="background-color:red;">Other Chain</mark> | 50 million |   |
-| <mark style="background-color:red;">Unallocated</mark> | 30 million |   |
+| Group                                                  | Amount |   |
+| ------------------------------------------------------ | ------ | - |
+| <mark style="background-color:red;">Other Chain</mark> |        |   |
+| <mark style="background-color:red;">Unallocated</mark> |        |   |
