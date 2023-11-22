@@ -20,7 +20,7 @@ layout:
 
 # Box Info
 
-## Open Gas
+## Open Token
 
 
 
@@ -28,12 +28,12 @@ layout:
 {% tab title="" %}
 | name        | amount |
 | ----------- | ------ |
-| Level 1 box |        |
-| Level 2 box |        |
-| Level 3 box |        |
-| Level 4 box |        |
-| Level 5 box |        |
-| Level 6 box |        |
+| Level 1 box | 2      |
+| Level 2 box | 3.92   |
+| Level 3 box | 5.76   |
+| Level 4 box | 7.52   |
+| Level 5 box | 9.2    |
+| Level 6 box | 10.8   |
 {% endtab %}
 {% endtabs %}
 

@@ -46,5 +46,3 @@ Telegram    [https://t.me/cbomber\_channel](https://t.me/cbomber\_channel)
 &#x20;                    [https://t.me/cbomber\_cn](https://t.me/cbomber\_cn)
 
 Market        [https://www.cbomber.io/market.html](https://www.cbomber.io/market.html)
-
-Pool            ~~https://www.cbomber.io/pool.html~~

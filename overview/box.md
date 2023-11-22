@@ -55,14 +55,12 @@ Box nft acquired by different activities, different boxes contain different nft.
 
 ### Open Box
 
-Use Gas to open different boxes to get different on-chain tokens, nft.
+Use Token to open different boxes to get different on-chain tokens, nft.
 
 Open the chest to get random **token**, body part **nft**. related data to view data.
 
-After the token release rate is met, 50% of the player's gas is transferred to the pool for defi.
-
 {% hint style="info" %}
-Different boxes require different values of gas, based on the data on the chain.
+Different boxes require different values of token, based on the data on the chain.
 
 [Data info Link](../data-sheet/box-info.md#open-gas)
 {% endhint %}
