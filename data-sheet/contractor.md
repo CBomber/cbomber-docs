@@ -38,11 +38,6 @@ layout:
 ```
 ```
 
-* Crypto Bomber Token
-
-```
-```
-
 * Crypto Bomber HostingPool
 
 ```
