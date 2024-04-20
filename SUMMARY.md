@@ -6,7 +6,6 @@
 
 * [💡 P2E](overview/p2e.md)
 * [✨ Box](overview/box.md)
-* [❤ Defi](overview/defi.md)
 * [😀 Market](overview/market.md)
 * [😍 Game Buffs](overview/game-buffs.md)
 

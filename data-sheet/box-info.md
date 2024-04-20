@@ -25,7 +25,7 @@ layout:
 
 
 {% tabs %}
-{% tab title="" %}
+{% tab title="Burn" %}
 | name        | amount |
 | ----------- | ------ |
 | Level 1 box | 2      |
@@ -36,17 +36,6 @@ layout:
 | Level 6 box | 10.8   |
 {% endtab %}
 {% endtabs %}
-
-## Tokens
-
-| name        | amount      |
-| ----------- | ----------- |
-| Level 1 box | \[1,2,3]    |
-| Level 2 box | \[3,4,5]    |
-| Level 3 box | \[5,6,7]    |
-| Level 4 box | \[7,8,9]    |
-| Level 5 box | \[9,10,11]  |
-| Level 6 box | \[11,12,13] |
 
 ## Basic NFT
 

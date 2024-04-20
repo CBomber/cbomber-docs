@@ -66,17 +66,5 @@ Different boxes require different values of token, based on the data on the chai
 {% endhint %}
 
 {% hint style="info" %}
-Reward token and defi are not enabled by default, the time to enable them depends on the event.
-{% endhint %}
-
-{% hint style="info" %}
-The random chance of token vs. nft is 50%.
-{% endhint %}
-
-{% hint style="info" %}
-The number of invitations affects the reward of tokens received for opening a box, with 10 people 1‰ and a maximum reward of 10%.
-{% endhint %}
-
-{% hint style="info" %}
 Invite scores can be redeemed for boxnft.
 {% endhint %}

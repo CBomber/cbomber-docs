@@ -22,40 +22,50 @@ layout:
 
 
 {% tabs %}
-{% tab title="" %}
-* Crypto Bomber Basic
+{% tab title="BASE CHAIN" %}
+* CBomberBasic
+
+````
+```
+0xD9439B2710E6C8d7E7cEeCbfF6E82dbA5015868D
+```
+````
+
+* CBomberProps
+
+````
+```
+0x7a826d7F090B7B11a662bB136B0120E565919d77
+```
+````
+
+* CBomberData
+
+````
+```
+0xca30dd1dFEee426b30142e0cab3dEC7C64Ce26D1
+```
+````
+
+* CBomberBox
 
 ```
 ```
 
-* Crypto Bomber Props
+* CBomberSettlement
 
+````
 ```
+0x221fb4FfFC80763E05ca251c616abF4cdaC65Ad3
 ```
+````
 
-* Crypto Bomber Data
+* CBomberMarket
 
+````
 ```
+0x4D5eA7c8167c54C6D4Ef8Db490Ca985a95Fd770d
 ```
-
-* Crypto Bomber HostingPool
-
-```
-```
-
-* Crypto Bomber Box
-
-```
-```
-
-* Crypto Bomber Settlement
-
-```
-```
-
-* Crypto Bomber Market
-
-```
-```
+````
 {% endtab %}
 {% endtabs %}
