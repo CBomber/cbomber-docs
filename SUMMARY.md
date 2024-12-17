@@ -13,6 +13,7 @@
 * [Main](ui-description/main.md)
 * [Custom](ui-description/custom.md)
 * [Basic](ui-description/basic.md)
+* [Shop](ui-description/shop.md)
 * [Server List](ui-description/server-list.md)
 * [Create Room](ui-description/create-room.md)
 * [Room Lobby](ui-description/room-lobby.md)
