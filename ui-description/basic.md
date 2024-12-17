@@ -39,10 +39,3 @@ The number of current wallet holdings of various classes nft.
 
 Send basic nft.
 
-### Mark D
-
-Destroy the nft and get the corresponding credits.
-
-{% hint style="info" %}
-Destruction operations require that you first authorize the contract to operate basicnft, which can be done by clicking the approval button.
-{% endhint %}
