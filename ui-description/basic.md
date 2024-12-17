@@ -21,7 +21,7 @@ layout:
 
 ## Screenshot
 
-<figure><img src="../.gitbook/assets/newBasic.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/basic_2024-12-17_23.00.38.png" alt=""><figcaption></figcaption></figure>
 
 ## Description
 
