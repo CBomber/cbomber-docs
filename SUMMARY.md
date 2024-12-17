@@ -5,7 +5,6 @@
 ## Overview
 
 * [💡 PLAY](overview/p2e.md)
-* [😀 Market](overview/market.md)
 * [😍 Game Buffs](overview/game-buffs.md)
 
 ## UI Description
