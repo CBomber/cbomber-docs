@@ -30,5 +30,5 @@ The nft marketplace is an order-based trading product that allows players to buy
 
 
 {% hint style="info" %}
-The transaction fee is 2%.
+The transaction fee is 5%.
 {% endhint %}

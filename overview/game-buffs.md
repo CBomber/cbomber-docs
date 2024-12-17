@@ -22,15 +22,7 @@ layout:
 
 ##
 
-<div>
-
-<figure><img src="../.gitbook/assets/bombs.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/shields.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div><figure><img src="../.gitbook/assets/bombs.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/shields.png" alt=""><figcaption></figcaption></figure></div>
 
 ## Types
 
@@ -52,9 +44,9 @@ The character's movement speed.The upper limit is 9.
 
 ## Resurrect
 
-| Conditions                  | BUFF                                   |
-| --------------------------- | -------------------------------------- |
-| 17 body parts.              | <p>ShieldAmount +1<br>MoveSpeed +1</p> |
-| 1 body outfit.              | <p>ShieldAmount +1<br>MoveSpeed +1</p> |
-| Non-default bombs.          | <p>BombRange + n<br>BombAmount + n</p> |
-| Non-default shield effects. | <p>CanKickBomb<br>ShieldAmount +n</p>  |
+| Conditions           | BUFF                                   |
+| -------------------- | -------------------------------------- |
+| 17 body parts.       | <p>ShieldAmount +1<br>MoveSpeed +1</p> |
+| 1 body outfit.       | <p>ShieldAmount +1<br>MoveSpeed +1</p> |
+|  Shop bombs.         | <p>BombRange + n<br>BombAmount + n</p> |
+| Shop shield effects. | <p>CanKickBomb<br>ShieldAmount +n</p>  |

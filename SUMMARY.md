@@ -4,8 +4,7 @@
 
 ## Overview
 
-* [💡 P2E](overview/p2e.md)
-* [✨ Box](overview/box.md)
+* [💡 PLAY](overview/p2e.md)
 * [😀 Market](overview/market.md)
 * [😍 Game Buffs](overview/game-buffs.md)
 
@@ -13,9 +12,7 @@
 
 * [Login](ui-description/login.md)
 * [Main](ui-description/main.md)
-* [Information](ui-description/information.md)
 * [Custom](ui-description/custom.md)
-* [Props](ui-description/props.md)
 * [Basic](ui-description/basic.md)
 * [Server List](ui-description/server-list.md)
 * [Create Room](ui-description/create-room.md)
@@ -30,11 +27,7 @@
 * [Contract](data-sheet/contractor.md)
 * [Server Information](data-sheet/server-information.md)
 * [NFT](data-sheet/nft/README.md)
-  * [Props](data-sheet/nft/props.md)
   * [Basic](data-sheet/nft/basic.md)
-* [Box Info](data-sheet/box-info.md)
-* [Box Exchange](data-sheet/box-exchange.md)
-* [Box Destroy](data-sheet/box-destroy.md)
 * [Tokenomics](data-sheet/tokenomics.md)
 
 ## Creative Workshop

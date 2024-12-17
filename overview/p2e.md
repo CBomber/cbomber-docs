@@ -17,13 +17,13 @@ layout:
     visible: true
 ---
 
-# 💡 P2E
+# 💡 PLAY
 
 ## Overview
 
 {% embed url="https://drive.google.com/file/d/170ZRzubOFQ6_5JanpfWfcApGXIWfBRIe/view?usp=sharing" %}
 
-The game's three matchmaking modes, io, death match, and team death match, are played through PVP and PVE, with final chain settlement based on scores. The contract will reward the corresponding box according to the validity of the results. The box adopts ERC1155 standard nft, users can circulate freely. Different boxes can be opened with corresponding token to get random items on the chain.
+The game has three matchmaking modes, io, deathmatch and team deathmatch, and is played via PVP and PVE, with final on-chain settlement based on scores. The settlement smart contract will randomly award NFTs based on the validity of the result. 1907 types of NFTs for different parts of the body exist in the game, so players can combine them at will to experience the fun of the game.
 
 ***
 
@@ -32,14 +32,5 @@ Each submission of grades requires an interval of 60s, subject to contract setti
 {% endhint %}
 
 {% hint style="info" %}
-Different levels of boxes for different scores.
+The score needs to be 10 or more to have a 10% base probability of getting a random nft.
 {% endhint %}
-
-| score   | box         | tokenid |
-| ------- | ----------- | ------- |
-| 1 - 10  | Level 1 box | 1       |
-| 11 - 20 | Level 2 box | 2       |
-| 21 - 30 | Level 3 box | 3       |
-| 31 - 40 | Level 4 box | 4       |
-| 41 - 50 | Level 5 box | 5       |
-| 50 +    | Level 6 box | 6       |

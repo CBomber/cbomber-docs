@@ -41,7 +41,7 @@ Select the game mode to be matched to join the corresponding game room.
 
 ### Mark D
 
-Jump to info to see the current wallet's invitees, credits, promo codes, and registered promotional links on the detailed view [Information](information.md).
+Jump to info to see the current wallet's invitees, credits, promo codes, and registered promotional links on the detailed view [Information](broken-reference).
 
 ### Mark E
 
@@ -49,7 +49,7 @@ Check in at 24 hour intervals and get 2 points per check in, which can be redeem
 
 ### Mark F
 
-Jump to the props page to view the props nft held by the wallet, and also support authorization, sending, open box, shelving, and redemption functions to view the [props](props.md) in detail.
+Jump to the props page to view the props nft held by the wallet, and also support authorization, sending, open box, shelving, and redemption functions to view the [props](broken-reference) in detail.
 
 ### Mark G
 

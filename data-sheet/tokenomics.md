@@ -1,5 +1,5 @@
 ---
-description: Total 100 million.
+description: Total 10 billion.
 ---
 
 # Tokenomics
