@@ -34,3 +34,7 @@ Each submission of grades requires an interval of 60s, subject to contract setti
 {% hint style="info" %}
 The score needs to be 10 or more to have a 10% base probability of getting a random nft.
 {% endhint %}
+
+{% hint style="info" %}
+Wallet holds the Genesis nft, which increases the probability of getting the nft when settling.
+{% endhint %}
