@@ -29,20 +29,16 @@ CryptoBomber is a classic bomb casual web3 game that includes online pvp and pve
 
 Website      [https://cbomber.io](https://cbomber.io)
 
-PlayGame   [https://testplay.cbomber.io](https://testplay.cbomber.io)
-
-&#x20;                   [https://play.cbomber.io](https://play.cbomber.io)
+PlayGame   [https://play.cbomber.io](https://play.cbomber.io)
 
 Document   [https://doc.cbomber.io](https://doc.cbomber.io)
 
 GitHub        [https://github.com/CBomber](https://github.com/CBomber)
 
-Twitter        [https://twitter.com/cbomber\_io](https://twitter.com/cbomber\_io)
+Twitter        [https://twitter.com/cbomber\_io](https://twitter.com/cbomber_io)
 
-Telegram    [https://t.me/cbomber\_channel](https://t.me/cbomber\_channel)
+Telegram   &#x20;
 
-&#x20;                    [https://t.me/cbomber\_global](https://t.me/cbomber\_global)
+&#x20;Shop           [https://cbomber.io/shops/](https://cbomber.io/shops/)        &#x20;
 
-&#x20;                    [https://t.me/cbomber\_cn](https://t.me/cbomber\_cn)
-
-Market        [https://www.cbomber.io/market.html](https://www.cbomber.io/market.html)
+Market        [https:/](https://www.cbomber.io/market.html)/cbomber.io/market/
