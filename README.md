@@ -41,4 +41,4 @@ Telegram   &#x20;
 
 &#x20;Shop           [https://cbomber.io/shops/](https://cbomber.io/shops/)        &#x20;
 
-Market        [https:/](https://www.cbomber.io/market.html)/cbomber.io/market/
+Market        https://cbomber.io/market/
