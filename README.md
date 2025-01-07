@@ -37,8 +37,12 @@ GitHub        [https://github.com/CBomber](https://github.com/CBomber)
 
 Twitter        [https://twitter.com/cbomber\_io](https://twitter.com/cbomber_io)
 
-Telegram   &#x20;
+Discord       [https://discord.gg/RA6KNBJR](https://discord.gg/RA6KNBJR)
 
-&#x20;Shop           [https://cbomber.io/shops/](https://cbomber.io/shops/)        &#x20;
+Telegram    [https://t.me/cbomber\_global](https://t.me/cbomber_global)
+
+&#x20;
+
+Shop           [https://cbomber.io/shops/](https://cbomber.io/shops/)        &#x20;
 
 Market        https://cbomber.io/market/
