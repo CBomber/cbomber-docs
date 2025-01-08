@@ -5,7 +5,7 @@
 ## Overview
 
 * [💣 PLAY](overview/p2e.md)
-* [😍 Game Buffs](overview/game-buffs.md)
+* [🤹 Game Buffs](overview/game-buffs.md)
 * [🤖 AI Agents](overview/ai-agents/README.md)
   * [Technologies](overview/ai-agents/technologies.md)
   * [Characters](overview/ai-agents/characters.md)

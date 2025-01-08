@@ -18,7 +18,7 @@ layout:
     visible: true
 ---
 
-# 😍 Game Buffs
+# 🤹 Game Buffs
 
 ##
 
