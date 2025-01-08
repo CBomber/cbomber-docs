@@ -21,7 +21,7 @@ layout:
 
 ## Overview
 
-CryptoBomber is a classic bomb casual web3 game that includes online pvp and pve, earn nft while playing for fun!
+CryptoBomber seamlessly combines state-of-the-art AI agents, advanced speech synthesis, multimodal emotion recognition, and Web3 technologies to redefine casual gaming. At its core, Bomber Girl exemplifies the potential of AI-driven characters in creating personalized, emotionally engaging, and blockchain-integrated gaming experiences.
 
 {% embed url="https://drive.google.com/file/d/1K9kwpLZAiB5pwYLywAQym1ZmHYDdRbsz/view?usp=drive_link" %}
 
