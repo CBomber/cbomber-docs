@@ -17,7 +17,7 @@ layout:
     visible: true
 ---
 
-# 💡 PLAY
+# 💣 PLAY
 
 ## Overview
 
