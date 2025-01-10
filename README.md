@@ -37,7 +37,7 @@ GitHub        [https://github.com/CBomber](https://github.com/CBomber)
 
 Twitter        [https://twitter.com/cbomber\_io](https://twitter.com/cbomber_io)
 
-Discord       [https://discord.gg/RA6KNBJR](https://discord.gg/RA6KNBJR)
+Discord       [https://discord.com/invite/z4UA78qejV](https://discord.com/invite/z4UA78qejV)
 
 Telegram    [https://t.me/cbomber\_global](https://t.me/cbomber_global)
 
